@@ -1,0 +1,10 @@
+Flask==1.0.3
+boto3==1.9.166
+dataclasses-json==0.2.4
+
+apispec==2.0.2
+
+requests==2.22.0
+
+# project health
+pytest==5.1.1
