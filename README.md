@@ -1,13 +1,7 @@
-## My Project
+## Sample code: Generating REST APIs from data classes in Python
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+Sample code supporting the `Generating REST APIs from data classes in Python` blog post.
 
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
-
