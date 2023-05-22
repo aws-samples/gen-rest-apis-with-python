@@ -4,7 +4,7 @@ dataclasses-json==0.2.4
 
 apispec==2.0.2
 
-requests==2.22.0
+requests==2.31.0
 
 # project health
 pytest==5.1.1
